@@ -16,10 +16,10 @@ Project này mô phỏng cánh tay robot (robot arm) và mô phỏng BPSK trong 
 
 - Demo:
   + Robot Arm
-https://github.com/user-attachments/assets/32096c8e-bbe7-4453-8f10-ad4ebf2710d3
 
- Arm:
+https://github.com/user-attachments/assets/32096c8e-bbe7-4453-8f10-ad4ebf2710d3
     
   + BPSK:
+
 https://github.com/user-attachments/assets/6defab06-e7b7-437a-9429-f4ee954cfbd2
 
