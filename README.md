@@ -1,4 +1,4 @@
-Project này mô phỏng cánh tay robot (robot arm) và mô phỏng BPSK trong Unity, sử dụng MATLAB để tính toán động học (kinematics) và điều khiển.
+Project này mô phỏng cánh tay robot (robot arm) trong Unity, sử dụng MATLAB để tính toán động học (kinematics) và điều khiển.
 - Unity đảm nhiệm:
   + Hiển thị 3D
   + Animation
